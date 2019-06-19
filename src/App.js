@@ -4,7 +4,7 @@ import Titles from "./components/Titles";
 import Form from "./components/Form";
 import Weather from "./components/Weather";
 
-const API_KEY = "af1ff1ac76534787309edf08f13dff12";
+const API_KEY = "efa3b1413392a42c01a79ff2f5042a4b";
 
 //this is a function it should be a class but i am testing if it would still work
 class App extends React.Component {
